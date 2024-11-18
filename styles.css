@@ -15,10 +15,10 @@ body{
 .latest-news-section{
 	background-color:white;
 	padding:20px;
-	width:160px;
-	font-size:15px;
+	width:120px;
+	font-size:10px;
 	margin:10px;
-	margin-left:20px;
+	margin-left:12px;
 	border-radius:20px;
 	justify-content:center;
 }
@@ -27,14 +27,45 @@ body{
 	
 }
 .latest-news-section ul{
-	padding-left:35px;
+	padding-left:20px;
 	padding-top:10px;
 }
-.mainArticle{
-	background-color:wthite;
+.two{
+	background-color:white;
 	justify-content:center;
 	text-align:center;
+	padding:20px;
+	margin:10px;
+	border-radius:15px;
+	width:200px;
+	font-size:10px;
+	
 }
 
-
+.news{
+	diplay:flex;
+	flex-direction:row;
+}
+.pictorial-news-section{
+	display:flex;
+	flex-direction:column;
+	background-color:white;
+	width:200px;
+	padding:10px;
+	margin-left:10px;
+	border-radius:15px
+	
+}
+.img1{
+	width:200px;
+	padding-bottom:10px;
+}
+.img2{
+	width:200px;
+	padding-bottom:10px;
+}
+.img3{
+	width:200px;
+	padding-bottom:5px;
+}
 
