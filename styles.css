@@ -45,6 +45,14 @@ body{
 .news{
 	diplay:flex;
 	flex-direction:row;
+	justify-content:space-around;
+	align-items:baseline;
+	flex-wrap:wrap;
+	
+}
+.two h2{
+padding-bottom:10px;
+	
 }
 .pictorial-news-section{
 	display:flex;
